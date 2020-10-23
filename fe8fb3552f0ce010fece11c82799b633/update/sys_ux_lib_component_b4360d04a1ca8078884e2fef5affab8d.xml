@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component">
+    <sys_ux_lib_component action="INSERT_OR_UPDATE">
+        <default_children/>
+        <default_layout/>
+        <deprecated>false</deprecated>
+        <overrides/>
+        <required_sys_props/>
+        <required_translation_keys/>
+        <source_script/>
+        <source_script_name>ne-assessment</source_script_name>
+        <sys_class_name>sys_ux_lib_component</sys_class_name>
+        <sys_created_by>w.geek6</sys_created_by>
+        <sys_created_on>2020-10-23 19:27:20</sys_created_on>
+        <sys_id>b4360d04a1ca8078884e2fef5affab8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x-238172-ne-assessment</sys_name>
+        <sys_package display_value="ne-assessment" source="x_238172_ne_asse_0">fe8fb3552f0ce010fece11c82799b633</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ne-assessment">fe8fb3552f0ce010fece11c82799b633</sys_scope>
+        <sys_update_name>sys_ux_lib_component_b4360d04a1ca8078884e2fef5affab8d</sys_update_name>
+        <sys_updated_by>w.geek6</sys_updated_by>
+        <sys_updated_on>2020-10-23 19:27:20</sys_updated_on>
+        <tag>x-238172-ne-assessment</tag>
+    </sys_ux_lib_component>
+</record_update>
